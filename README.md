@@ -23,4 +23,4 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ![screen capture of notes page](https://github.com/hale-bopp97/E-commerce-back-end/blob/main/Develop/assets/Capture.JPG?raw=true)
 
-![](hhttps://github.com/hale-bopp97/E-commerce-back-end/blob/main/Develop/assets/Untitled_%20Oct%2013,%202022%209_01%20AM.gif?raw=true)
+![](https://github.com/hale-bopp97/E-commerce-back-end/blob/main/Develop/assets/Untitled_%20Oct%2013,%202022%209_01%20AM.gif?raw=true)
